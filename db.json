@@ -9,5 +9,14 @@
             "developer": "yes",
             "phone": "+998903651558"
         }
+        {
+            "id": 2,
+            "firstName": "fdf",
+            "lastName": "ggg",
+            "email": "me@gmail.com",
+            "gender": "male",
+            "developer": "yes",
+            "phone": "+998324234234"
+        }
     ]
 }
