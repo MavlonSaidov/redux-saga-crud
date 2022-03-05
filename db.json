@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Mavlon",
+            "lastName": "Saidov",
+            "email": "mavlonme@gmail.com",
+            "gender": "male",
+            "developer": "yes",
+            "phone": "+998903651558"
+        }
+    ]
+}
